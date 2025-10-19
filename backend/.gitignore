@@ -1,0 +1,8 @@
+__pycache__
+env
+.DS_Store
+.vscode
+api/.deta
+api/__pycache__
+backend/.deta
+backend/__pycache__
